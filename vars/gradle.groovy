@@ -1,7 +1,7 @@
 /*
 	forma de invocación de método call:
 	def ejecucion = load 'script.groovy'
-	ejecucion.call()
+	ejecucion.call() 
 */
 def call(){
     stage("Paso 1: Build && Test"){
